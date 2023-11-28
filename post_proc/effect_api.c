@@ -64,6 +64,8 @@
 
 #include "effect_api.h"
 
+#include <stdio.h>
+
 #ifdef DTS_EAGLE
 #include "effect_util.h"
 #endif
